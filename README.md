@@ -1,5 +1,4 @@
 Module 2 Challenge
-Due Jan 8 by 10:59pm Points 100 Submitting a text entry box or a website url
 Background
 You are well on your way to becoming a programmer and Excel expert! In this homework assignment, you will use VBA scripting to analyze generated stock market data.
 
